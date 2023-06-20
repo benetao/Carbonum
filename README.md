@@ -6,7 +6,7 @@
     <img src="https://github.com/benetao/Carbonum/assets/106626661/8d715fed-a62c-4fa2-be21-7742048778a4" alt="Logo" width="220" height="220">
   </a>
 
-  <h3 align="center">Repositório da Sturtup Carbonum</h3>
+  <h3 align="center">Repositório da Startup Carbonum</h3>
 
   <p align="center">
     Bem vindo ao nosso projeto de Modelagem de Empreendimentos Inovadores, disciplina da Ilum Escola de Ciência!
