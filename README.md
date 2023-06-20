@@ -61,21 +61,10 @@ Na disciplina de  Modelagem de Empreendimentos Inovadores, ministrada pela profe
 
 Ao longo do desenvolvimento do problema representado na imagem abaixo, nós selecionamos todas as variáveis envolvidas a partir de considerações físico-químicas, determinamos os estados termodinâmicos do sistema, calculamos todos os parâmetros e variáveis numéricas do problema utilizando Python, estabelecemos um fluxograma (pipeline) que incorpora todos os cálculos necessários e que é adaptável à escolha de outros líquidos combustíveis, justificando sempre todas as escolhas e soluções encontradas.
 
-<div align="center">
-  <a href="![neural](https://user-images.githubusercontent.com/106626661/225796535-51b41213-8397-435d-ab94-dc64551a2da1.gif)">
-    <img src="https://user-images.githubusercontent.com/106626661/226015817-8e68aac6-a052-4365-b51f-db0617168af1.png" alt="Logo" width="750" height="440">
-  </a>
-</div>
-
 ### Ferramentas <a name="ferramentas"></a>
 
 As ferramentas utilizadas para desenvolver o projeto dessa disciplina foram, principalmente, as plataformas Github e Jupyter Notebook, em que escrevemos os códigos usando a  linguagem Pyhton.
-</div>
-<div align="center">
-<img align="center" alt="Rafa-Python" height="60" width="60" src= https://user-images.githubusercontent.com/106626661/225802391-d24ac038-78b1-4b2d-8720-f5f9fb4dac9a.png>
- <img align="center" alt="Rafa-Python" height="70" width="70" src= https://user-images.githubusercontent.com/106626661/225802823-3edf4493-8191-433f-9152-7e73b941aadb.png>
- <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
+
 </div>
 
 
@@ -137,16 +126,6 @@ Entre nas pastas [Desafio 1](https://github.com/benetao/Termodinamica_Avancada/t
 <div style="display: inline_block"><br>
 </div>
 <hr>
-
-<!-- CONTATO -->
-### Contatos <a name="contato"></a>
- 
-<div>
-  <a href="https://instagram.com/isa.beneti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:isabela220039@ilum.cnpem.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isabela-bento-beneti-044183236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.youtube.com/channel/UCvf7m3bDwbFaezDbe_Igg_w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 
 
 
 
