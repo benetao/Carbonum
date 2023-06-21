@@ -56,33 +56,6 @@ Na disciplina de  Modelagem de Empreendimentos Inovadores, ministrada pela profe
 * `Clientes-alvo`
 * `Estrutura de custos`
 * `Fontes de Receita`
-
-### O Projeto <a name= "projeto"></a>
-
-Ao longo do desenvolvimento do problema representado na imagem abaixo, nós selecionamos todas as variáveis envolvidas a partir de considerações físico-químicas, determinamos os estados termodinâmicos do sistema, calculamos todos os parâmetros e variáveis numéricas do problema utilizando Python, estabelecemos um fluxograma (pipeline) que incorpora todos os cálculos necessários e que é adaptável à escolha de outros líquidos combustíveis, justificando sempre todas as escolhas e soluções encontradas.
-
-### Ferramentas <a name="ferramentas"></a>
-
-As ferramentas utilizadas para desenvolver o projeto dessa disciplina foram, principalmente, as plataformas Github e Jupyter Notebook, em que escrevemos os códigos usando a  linguagem Pyhton.
-
-</div>
-
-
-
-
-
-<!-- Progresso -->
-## Progresso do Projeto <a name="progresso"></a>
-
-- [x] Desafio 1: Definir a mistura combustível
-    - [x] Definição da Mistura
-    - [x] Definição da Entalpia da Mistura
-    - [x] Definição do Diagrama de Fases da Mistura
-    
-- [ ] Desafio 2: Determinar parâmetros termodinâmicos envolvidos na combustão
-    - [x] Determinação do volume da mistura de líquidos
-    - [x] Determinação da separação da mistura
-
 Entre nas pastas [Desafio 1](https://github.com/benetao/Termodinamica_Avancada/tree/main/Desafio%201), 
 ## Nosso time
 
